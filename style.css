@@ -38,3 +38,9 @@ p {
 span {
     padding: 0 15px;
 }
+
+@media screen and (max-width: 767px) {
+    .cntnr {
+        margin: 30px 10px 0 10px;
+    }
+}
